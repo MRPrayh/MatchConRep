@@ -1,2 +1,2 @@
 # MatchConRep
- Helps Match Referee in picking the right like-for-like Replacement incase a player on field suffers a Concussion Injury during the Match
+ Aims to help ICC Cricket Match Referee in picking the right Like-for-Like Replacement incase a Player on-field suffers a Concussion Injury during the Match.
